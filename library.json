@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-motorKB",
+  "title": "MotorKB",
+  "category" : "Device Control",
+  "keywords": "motor, esp32, arduino",
+  "description": "ปลั๊กอิน motorKB computing controller board สำหรับบอร์ด OpenKB, iKB-1, IPST-WIFI สำหรับแพลตฟอร์ม KB-IDE",
+  "homepage": "https://www.inex.co.th/",
+  "license": "MIT",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-motorKB/",
+  "author": "INEX",
+  "email": "tech@inex.co.th",
+  "url": "https://www.inex.co.th/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "image" : "/static/display.jpg"
+}
